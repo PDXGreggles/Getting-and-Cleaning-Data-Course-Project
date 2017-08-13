@@ -9,5 +9,5 @@ phone on their hip.  This data is the data on movement that was recorded by the 
 
 For more information about the data please view http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-### ************ Please ensure the folder 'UCI HAR Dataset' is in your working directory ******************************
+### ***** Please ensure the folder 'UCI HAR Dataset' is in your working directory ****************
 
